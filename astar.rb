@@ -1,8 +1,8 @@
 #==============================================================================
 # ** A* (Astar)
 #------------------------------------------------------------------------------
-#  See:   http://en.wikipedia.org/wiki/A*_search_algorithm
-#  Autor: Yuri <http://rpg-studio.de/forum/user/7798/yuri>
+#  See:    http://en.wikipedia.org/wiki/A*_search_algorithm
+#  Author: Markus Handschuh <yuri.designs@googlemail.com>
 #
 #==============================================================================
 # ** How to use
